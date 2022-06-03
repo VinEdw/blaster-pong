@@ -8,3 +8,5 @@ Press Space to start the round and reset it after it ends. You can also press Sp
 The blaster has a five second cooldown. If you hit your opponent twice, you get a point for that round. If you get the ball past your opponent, you get a point for that round, regardless of lives.
 The first player to reach 5 points wins the match.
 Have fun! :)
+
+Here is the current link hosted by [replit.com](https://pong-withblaster.vincentedwards1.repl.co/).
