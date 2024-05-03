@@ -9,4 +9,4 @@ The blaster has a five second cooldown. If you hit your opponent twice, you get 
 The first player to reach 5 points wins the match.
 Have fun! :)
 
-Here is the current link hosted by [replit.com](https://pong-withblaster.vincentedwards1.repl.co/).
+Here is the current link hosted using [GitHub Pages](https://vinedw.github.io/blaster-pong/).
